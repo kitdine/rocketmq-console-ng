@@ -16,7 +16,7 @@
  */
 package org.apache.rocketmq.console.config;
 
-import com.alibaba.rocketmq.common.MixAll;
+import org.apache.rocketmq.common.MixAll;
 import com.google.common.base.Strings;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
